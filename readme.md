@@ -1,0 +1,1 @@
+# Obsidian Template for Personal Knowledge Management (PKM) and the Getting Things Done(GTD) time management sytem
